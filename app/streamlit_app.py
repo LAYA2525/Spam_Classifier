@@ -24,7 +24,7 @@ except FileNotFoundError:
     vectorizer = load_artifact(MODEL_DIR / "vectorizer.pkl")
     pipeline = None
 
-st.title("📧 Email Spam Classifier")
+st.title(" Email Spam Classifier")
 st.markdown(
     "Enter an email (or SMS) message below and click **Classify** "
     "to see whether the system thinks it's **Spam** or **Ham**."
