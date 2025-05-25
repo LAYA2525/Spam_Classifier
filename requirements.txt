@@ -1,0 +1,15 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+joblib
+email-spam-classifier
+requirements.txt
+README.md
+app
+src
+model
+utils.py
+train_model.py
+spam_pipeline.pkl
